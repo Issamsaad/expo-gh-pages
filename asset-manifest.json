@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/expo-gh-pages/static/js/main.a42e385d.js",
+    "static/js/119.3e7a02fa.js": "/expo-gh-pages/static/js/119.3e7a02fa.js",
+    "static/media/MaterialCommunityIcons.ttf": "/expo-gh-pages/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/FontAwesome.ttf": "/expo-gh-pages/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Feather.ttf": "/expo-gh-pages/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "static/media/cube.gif": "/expo-gh-pages/static/media/cube.e4e44cfc3bf59ef897a7.gif",
+    "favicon.ico": "/expo-gh-pages/favicon.ico",
+    "static/media/student.png": "/expo-gh-pages/static/media/student.ac3590edc90b032e1e71.png",
+    "index.html": "/expo-gh-pages/index.html",
+    "favicon-32.png": "/expo-gh-pages/favicon-32.png",
+    "favicon-16.png": "/expo-gh-pages/favicon-16.png",
+    "manifest.json": "/expo-gh-pages/manifest.json",
+    "serve.json": "/expo-gh-pages/serve.json",
+    "main.a42e385d.js.map": "/expo-gh-pages/static/js/main.a42e385d.js.map",
+    "119.3e7a02fa.js.map": "/expo-gh-pages/static/js/119.3e7a02fa.js.map"
+  },
+  "entrypoints": [
+    "static/js/119.3e7a02fa.js",
+    "static/js/main.a42e385d.js"
+  ]
+}
